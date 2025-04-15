@@ -1,0 +1,8 @@
+reader1 | BORROW | Title: Conan | ISBN: 978-123-456A | Date: 2025-04-12
+reader1 | BORROW | Title: DragonBall | ISBN: 978-654-321B | Date: 2025-04-12
+reader1 | RETURN | Title: Conan | ISBN: 978-123-456A | Date: 2025-04-12
+reader1 | RETURN | Title: DragonBall | ISBN: 978-654-321B | Date: 2025-04-12
+reader1 | BORROW | Title: History of World | ISBN: 6677889900112 | Date: 2025-04-15
+reader1 | RETURN | Title: History of World | ISBN: 6677889900112 | Date: 2025-04-15
+reader1 | BORROW | Title: DragonBall | ISBN: 41343254564 | Date: 2025-04-15
+reader1 | RETURN | Title: DragonBall | ISBN: 41343254564 | Date: 2025-04-15

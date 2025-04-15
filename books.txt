@@ -1,0 +1,7 @@
+Printed,New Book,Author X,Fiction,987654321,true,2025-05-01,350
+Ebook,hahaha,bna,ccd,12312,true,N/A,PDF
+Printed,Java Programming,James Smith,Education,9781234567890,true,2025-06-01,500
+Ebook,Learn Java,John Doe,Technology,2345678901234,true,N/A,EPUB
+Printed,Science Basics,Mary Jane,Science,1122334455667,true,2025-07-01,300
+Ebook,The Great Adventure,Tom Brown,Fiction,9988776655443,true,N/A,MOBI
+Printed,DragonBall,Mimi,Novel,41343254564,true,N/A,300
